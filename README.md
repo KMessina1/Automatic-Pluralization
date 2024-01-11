@@ -3,6 +3,8 @@
 
 # SCREENSHOTS
 ## Screen Shot 1
+## Screen Shot 2
+## Screen Shot 3
 ![Plural1](https://github.com/KMessina1/Automatic-Pluralization/assets/8019251/0cdea963-b9ab-49cd-9c90-d7f1f75ce4e0)
 
 ## Screen Shot 2
