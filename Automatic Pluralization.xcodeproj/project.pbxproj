@@ -19,6 +19,7 @@
 		A42A70062B4F1A7400018622 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		A42A70082B4F1A7700018622 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A42A700B2B4F1A7700018622 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		A42A70122B4F502100018622 /* Automatic-Pluralization-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = "Automatic-Pluralization-Info.plist"; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +52,7 @@
 		A42A70032B4F1A7400018622 /* Automatic Pluralization */ = {
 			isa = PBXGroup;
 			children = (
+				A42A70122B4F502100018622 /* Automatic-Pluralization-Info.plist */,
 				A42A70042B4F1A7400018622 /* Automatic_PluralizationApp.swift */,
 				A42A70062B4F1A7400018622 /* ContentView.swift */,
 				A42A70082B4F1A7700018622 /* Assets.xcassets */,
@@ -275,6 +277,7 @@
 				DEVELOPMENT_TEAM = 6Y2RTMNG22;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Automatic-Pluralization-Info.plist";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -304,6 +307,7 @@
 				DEVELOPMENT_TEAM = 6Y2RTMNG22;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Automatic-Pluralization-Info.plist";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
